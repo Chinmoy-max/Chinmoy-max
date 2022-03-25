@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chinmoy-max
 - 👀 I’m interested in IT jobs
-- 🌱 I’m currently learning computer science based things like coding,networking,OOPs,DBMS etc..
+- 🌱 I’m currently learning computer science based things like coding,networking,OOPs,SQL etc..
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me via email ID-sumitcd21@gmail.com
 
